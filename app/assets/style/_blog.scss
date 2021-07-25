@@ -1,0 +1,89 @@
+
+
+
+
+/*blog*/
+.blogNav{
+	background-color: #650300;
+}
+
+.blogNavBar{
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+}
+
+.blogNav ul{
+	display: flex;
+	padding: 12px 0;
+}
+
+.blogNav ul li{
+	margin-right: 48px;
+}
+
+.blogNavBar a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.blog{
+	margin-top: 60px;
+}
+
+.blog li{
+	display: flex;
+	margin-bottom: 60px;
+}
+
+.blogTitle{
+	font-size: 32px;
+	line-height: 46px;
+	color: #650300;
+	font-weight: 600;
+	margin-bottom: 2px;
+}
+
+.blogConatint{
+	padding-left: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+
+
+.readMore{
+	align-self: flex-end;
+	font-size: 36px;
+	line-height: 48px;
+	color: #650300;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.blogInfo{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 24px;
+}
+
+.blogOverview{
+	font-size: 20px;
+	line-height: 26px;
+}
+
+.blogDate{
+	font-size: 16px;
+	line-height: 21px;
+}
+
+.blogConatint p{
+	color: #555555;
+	font-size: 20px;
+	line-height: 30px;
+}
+

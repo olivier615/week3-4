@@ -1,0 +1,54 @@
+
+.subNav{
+	display: flex;
+	justify-content: center;
+}
+
+.subNav li{
+	display: flex;
+	font-size: 32px;
+	line-height: 43px;
+	padding-top: 23px;
+	padding-bottom: 23px;
+	width: 33%;
+	align-items: center;
+	justify-content: center;
+	border-left: #DCDCDC 1px solid;
+	border-right: #DCDCDC 1px solid;
+}
+
+.subNav span{
+	font-size: 32px;
+	margin-right: 10px;
+}
+
+.action{
+	border-bottom: 8px solid #AA0601;
+}
+
+.productImaging{
+	height: 304px;
+	display: flex;
+}
+
+.productImaging li{
+	width: 50%;
+}
+
+.optical-imaging-01{
+	background: url(https://hexschool.github.io/webLayoutTraining1st/week3/banner-1.png) center center;
+	background-size: cover;
+}
+
+.optical-imaging-02{
+	background: url(https://hexschool.github.io/webLayoutTraining1st/week4/banner-2.png) center center;
+	background-size: cover;
+}
+
+
+.subtitle{
+	font-size: 48px;
+	font-weight: bold;
+	color: #650300;
+	text-align: center;
+}
